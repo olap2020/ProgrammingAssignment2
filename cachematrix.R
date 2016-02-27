@@ -1,7 +1,7 @@
 ## Matrix inversion is usually a costly computation and there may be some benefit
 # to caching the inverse of a matrix rather than compute it repeatedly. The
 # following two functions are used to cache the inverse of a matrix.
-#PS-I really hated this assignent.
+#PS-I really hated this assignment.
 
 # makeCacheMatrix creates a list containing a function to
 # 1. set the value of the matrix
